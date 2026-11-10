@@ -1,0 +1,1 @@
+*.env,*.ipynb,*.txt,*.py filter=lfs diff=lfs merge=lfs -text
